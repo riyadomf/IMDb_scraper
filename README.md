@@ -8,4 +8,4 @@ A simple scraper that scrapes IMDb website.
 # Installation
 * git clone https://github.com/riyadomf/IMDb_scraper
 * pip install -r requirements.txt
-* run main.py
+* run 'main.py'
